@@ -9,8 +9,9 @@ Give a short, 1-2 paragraph description of your project. Focus on the code, not 
 
 List what software your code depends on, as well as version numbers, like so:.
 
-1. R, version 3.1
-2. Python 2.7, Anaconda distribution.
+1. R, version 3.4.4
+2. RStudio, version 1.1442
+2. QGIS, version 3.0.1
 
 (In your code itself, includes commands that install required packages.)
 
