@@ -23,7 +23,7 @@ List all other files contained in the repo, along with a brief description of ea
 
 1. NYPD_Complaint_Data_Current_YTD.csv: The PolityVI dataset, available here: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-YTD/5uac-w243
     - NYPD_Incident_Level_Data_Column_Descriptions.csv for column descriptions
-2. DOITT_SUBWAY_ENTRANCE_04JAN2017.shp: Subway entrance locations in the form of a shp file, available here: http://www.systemicpeace.org/inscrdata.html
+2. DOITT_SUBWAY_ENTRANCE_01_13SEPT2017.csv: Subway entrance locations, available here: https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56. Note that when downloaded it will say "SEPT2010." The csv file was updated since Sept of 2017, they have just simply failed to rename the file for the past 6 years
 3. polity.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
 4. polity.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
 5. polity.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
