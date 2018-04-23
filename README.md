@@ -34,12 +34,12 @@ List all other files contained in the repo, along with a brief description of ea
 
 *Note that the filenames from NYC Open Data are outdated. They continuously update, but fail to rename the file.
 ## Crime data
-1. NYPD_Complaint_Data_Current_YTD.csv: The PolityVI dataset, available here: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-YTD/5uac-w243
+1. NYPD_Complaint_Data_Current_YTD.csv: All reported crimes that occurred in New York City limits, available here: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-YTD/5uac-w243
     - NYPD_Incident_Level_Data_Column_Descriptions.csv for column descriptions
 
 ### Code
 
-1. 01_collect-nyt.py: Collects data from New York Times API and exports data to the file nyt.csv
+1. Matt-Javier-PS239T-Final-Project.rmd: Loads and cleans data from NYC Open Data, also merges data produced from QGIS
 2. 02_merge-data.R: Loads, cleans, and merges the raw Polity and NYT datasets into the Analysis Dataset.
 2. 03_analysis.R: Conducts descriptive analysis of the data, producing the tables and visualizations found in the Results directory.
 
