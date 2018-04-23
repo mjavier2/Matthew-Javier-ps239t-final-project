@@ -22,9 +22,16 @@ List all other files contained in the repo, along with a brief description of ea
 ### Data
 ## Infrastructure Data
 1. DOITT_SUBWAY_ENTRANCE_01_13SEPT2010.csv: Subway entrance locations, available here: https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56. 
-3. polity.csv: The PolityVI dataset, available here: https://data.cityofnewyork.us/Transportation/Bus-Stop-Shelters/qafz-7myz
+3. Bus_Stop_Shelter.csv: The PolityVI dataset, available here: https://data.cityofnewyork.us/Transportation/Bus-Stop-Shelters/qafz-7myz
 4. DOITT_AFTER_SCHOOL_PROGRAM_01_29JUL2009.csv: The PolityVI dataset, available here: https://data.cityofnewyork.us/Social-Services/After-School-Programs/6ej9-7qyi
-5. polity.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
+5. COLLEGE_UNIVERSITY.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
+6. Public_Schools_Points_2011-2012A.shp: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
+7. homebase_locations_for_homelessness.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
+8. homeless_drop-_in_centers.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
+9. LIBRARY.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
+10. MUNIMETER.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
+11. NYC_Free_Public_WiFi_03292017.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
+
 *Note that the filenames from NYC Open Data are outdated. They continuously update, but fail to rename the file.
 ## Crime data
 1. NYPD_Complaint_Data_Current_YTD.csv: The PolityVI dataset, available here: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-YTD/5uac-w243
