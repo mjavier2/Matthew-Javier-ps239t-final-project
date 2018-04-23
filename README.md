@@ -39,8 +39,8 @@ List all other files contained in the repo, along with a brief description of ea
 
 ### Code
 
-1. Matt-Javier-PS239T-Final-Project.rmd: Loads and cleans data from NYC Open Data, also merges data produced from QGIS
-2. 02_merge-data.R: Loads, cleans, and merges the raw Polity and NYT datasets into the Analysis Dataset.
+1. Matt-Javier-CleaningData.rmd: Loads and cleans data from NYC Open Data, also merges data produced from QGIS
+2. Matt-Javier-Analysis.rmd: Loads, cleans, and merges the raw Polity and NYT datasets into the Analysis Dataset.
 2. 03_analysis.R: Conducts descriptive analysis of the data, producing the tables and visualizations found in the Results directory.
 
 ### Results
