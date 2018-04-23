@@ -19,8 +19,8 @@ List what software your code depends on, as well as version numbers, like so:.
 
 List all other files contained in the repo, along with a brief description of each one, like so:
 
-### Data
-## Infrastructure Data
+## Data
+### Infrastructure Data
 1. DOITT_SUBWAY_ENTRANCE_01_13SEPT2010.csv: Subway entrance locations, available here: https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56. 
 3. Bus_Stop_Shelter.csv: The PolityVI dataset, available here: https://data.cityofnewyork.us/Transportation/Bus-Stop-Shelters/qafz-7myz
 4. DOITT_AFTER_SCHOOL_PROGRAM_01_29JUL2009.csv: The PolityVI dataset, available here: https://data.cityofnewyork.us/Social-Services/After-School-Programs/6ej9-7qyi
@@ -33,7 +33,7 @@ List all other files contained in the repo, along with a brief description of ea
 11. NYC_Free_Public_WiFi_03292017.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
 
 *Note that the filenames from NYC Open Data are outdated. They continuously update, but fail to rename the file.
-## Crime data
+### Crime data
 1. NYPD_Complaint_Data_Current_YTD.csv: All reported crimes that occurred in New York City limits, available here: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-YTD/5uac-w243
     - NYPD_Incident_Level_Data_Column_Descriptions.csv for column descriptions
 
