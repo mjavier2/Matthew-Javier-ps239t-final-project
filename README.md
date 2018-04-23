@@ -21,13 +21,13 @@ List all other files contained in the repo, along with a brief description of ea
 
 ### Data
 
-1. polity.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
-2. nyt.csv: Contains data from the New York Times API collected via collect-nyt.ipynb . Includes information on all articles containing the term "Programmer Cat", 1980-2010.
-3. analysis-dataset.csv: The final Analysis Dataset derived from the raw data above. It includes country-year values for all UN countries 1980-2010, with observations for the following variables: 
-    - *ccode*: Correlates of War numeric code for country observation
-    - *year*: Year of observation
-    - *polity*: PolityVI score
-    - *nyt*: Number of New York Times articles about "Programmer Cat"
+1. NYPD_Complaint_Data_Current_YTD.csv: The PolityVI dataset, available here: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-YTD/5uac-w243
+    - NYPD_Incident_Level_Data_Column_Descriptions.csv for column descriptions
+2. DOITT_SUBWAY_ENTRANCE_04JAN2017.shp: Subway entrance locations in the form of a shp file, available here: http://www.systemicpeace.org/inscrdata.html
+3. polity.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
+4. polity.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
+5. polity.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
+
 
 ### Code
 
