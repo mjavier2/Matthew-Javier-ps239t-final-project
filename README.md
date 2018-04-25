@@ -21,7 +21,7 @@ List all other files contained in the repo, along with a brief description of ea
 
 ### Data
 #### Infrastructure Data
-1. nypd_precincts_and_2010_census_pop.shp: NYPD precincts with 2010 census population. Note, precinct 61 was a broken polygon (even from Open Data, it's broken, I literally drew the precinct by hand to solve this. Available here: https://dunnguyen.carto.com/tables/nypd_precincts_and_2010_census_pop/public
+1. nypd_precincts_and_2010_census_pop.csv: NYPD precincts with 2010 census population. Note, precinct 61 was a broken polygon (even from Open Data, it's broken, I literally drew the precinct by hand to solve this. Available here: https://dunnguyen.carto.com/tables/nypd_precincts_and_2010_census_pop/public
 1. DOITT_SUBWAY_ENTRANCE_01_13SEPT2010.csv: Subway entrance locations, available here: https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56. 
 3. Bus_Stop_Shelter.csv: The PolityVI dataset, available here: https://data.cityofnewyork.us/Transportation/Bus-Stop-Shelters/qafz-7myz
 4. DOITT_AFTER_SCHOOL_PROGRAM_01_29JUL2009.csv: The PolityVI dataset, available here: https://data.cityofnewyork.us/Social-Services/After-School-Programs/6ej9-7qyi
