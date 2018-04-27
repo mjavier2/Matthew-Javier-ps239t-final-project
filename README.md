@@ -8,17 +8,11 @@ Give a short, 1-2 paragraph description of your project. Focus on the code, not 
 
 ## Dependencies
 
-List what software your code depends on, as well as version numbers, like so:.
-
 1. R, version 3.4.4
 2. RStudio, version 1.1442
 2. QGIS, version 3.0.1
 
-(In your code itself, includes commands that install required packages.)
-
 ## Files
-
-List all other files contained in the repo, along with a brief description of each one, like so:
 
 ### Data
 #### Infrastructure Data
@@ -30,7 +24,6 @@ List all other files contained in the repo, along with a brief description of ea
 6. NYC_Free_Public_WiFi_03292017.csv: Dataset for all public wifi hotspots. Available here: https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-Hotspot-Locations/a9we-mtpn
 9. LIBRARY.csv: The PolityVI dataset, available here: http://www.systemicpeace.org/inscrdata.html
 
-
 *Note that the filenames from NYC Open Data are outdated. They continuously update, but fail to rename the file.
 #### Crime data
 1. NYPD_Complaint_Data_Current_YTD.csv: All reported crimes that occurred in New York City limits, available here: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-YTD/5uac-w243
@@ -40,11 +33,10 @@ List all other files contained in the repo, along with a brief description of ea
 
 1. Matt-Javier-CleaningData.rmd: Loads and cleans data from NYC Open Data, also merges data produced from QGIS
 2. Matt-Javier-Analysis.rmd: Loads, cleans, and merges the raw Polity and NYT datasets into the Analysis Dataset.
-2. 03_analysis.R: Conducts descriptive analysis of the data, producing the tables and visualizations found in the Results directory.
 
 ### Results
 
-1. coverage-over-time.jpeg: Graphs the number of articles about each region over time.
+1. precinctsbylarcenies.png
 2. regression-table.txt: Summarizes the results of OLS regression, modelling *nyt* on a number of covariates.
 
 ## More Information
